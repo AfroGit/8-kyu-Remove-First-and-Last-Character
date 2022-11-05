@@ -8,5 +8,5 @@ function removeChar(str){
 let arr1 = str.split('')
 arr1.shift()
 arr1.pop()
-return arr1.join('');
+return arr1.join('')
 }
